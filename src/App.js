@@ -1,8 +1,10 @@
+import Burger from './components/shared/buttons/Burger';
+
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Burger />
+    </>
   );
 }
 
